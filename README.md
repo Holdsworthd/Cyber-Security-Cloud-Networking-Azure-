@@ -1,5 +1,4 @@
-# ProjectOne
-Cyber Security Cloud networking project
+# Cyber Security Cloud Networking using Azure
 
 ## Automated ELK Stack Deployment
 
